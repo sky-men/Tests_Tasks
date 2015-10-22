@@ -1,0 +1,7 @@
+service_id	service_group_id	service_name
+1	1	serv1
+2	1	serv2
+3	1	serv3
+4	2	serv4
+5	2	serv5
+6	3	serv6
