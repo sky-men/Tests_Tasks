@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule upload/(.+)$ action/get.php?image=$1 [NC,L]
