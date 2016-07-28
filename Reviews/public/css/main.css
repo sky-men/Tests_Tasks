@@ -1,0 +1,113 @@
+#content
+{
+    width: 98%;
+    margin: 10px auto 10px auto;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #de8f4d;
+}
+
+.sort_block
+{
+    margin-top: 10px;
+}
+
+.user_info
+{
+    margin-top: 10px;
+}
+
+.user
+{
+    font-weight: bold;
+}
+
+.review
+{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.review_img img
+{
+    width: 100px;
+    height: 75px;
+    padding: 2px;
+    border: 2px solid #de8f4d;
+}
+
+.form
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.user_info_inputs
+{
+    width: 30%;
+}
+
+.message
+{
+    width: 90%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.line
+{
+    border-top: 1px solid lightblue;
+    margin-top: 15px;
+}
+
+#preview_content
+{
+    display: none;
+}
+
+.admin_auth
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.admin_review_action
+{
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.admin_review_action_title
+{
+    font-weight: bold;
+}
+
+.admin_onModeration
+{
+    color: #1d17ff;
+}
+
+.admin_accepted
+{
+    color: green;
+}
+
+.admin_rejected
+{
+    color: red;
+}
+
+.admin_update
+{
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.admin_title
+{
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
