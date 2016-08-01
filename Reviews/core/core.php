@@ -50,8 +50,6 @@ class Core
     {
         define('ROOT_PATH', realpath(__DIR__ . '/../'));
 
-        define('PUBLIC_PATH', realpath(ROOT_PATH . '/public'));
-
         define('APPLICATION_PATH', realpath(ROOT_PATH . '/application'));
 
         define('VENDORS_PATH', realpath(ROOT_PATH. '/vendors'));
