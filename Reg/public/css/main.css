@@ -1,0 +1,30 @@
+html, body { height:100%; }
+
+.main_tbl
+{
+    display: table;
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main_tbl_cell
+{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.bg-primary, .bg-danger { height: 30px; padding: 5px; }
+
+#register_block { display: none }
+
+.switch_auth_link { text-align: right; margin-bottom: 8px }
+
+#auth_history { display: none }
+
+.history_link { text-align: right }
+
+.last_users_block_link { text-align: right }
+
+#last_registers_users { display: none }
