@@ -11,10 +11,10 @@ $content = curl('http://www.bills.ru');
 
 //$content = file_get_contents('page.html'); //если дизайн на bills.ru поменяется, - в page.html старый дизайн
 
-//выбераем главную html-таблицу с данными
+//выбираем главную html-таблицу с данными
 preg_match($pregs['table'], $content, $matches);
 
-//выбераем колонки из этой таблицы
+//выбираем колонки из этой таблицы
 preg_match_all($pregs['rows'], $matches[0], $matches);
 
 //из этих колонок формируем конкретные данные (date, title, url) для последующей вставки в sql
