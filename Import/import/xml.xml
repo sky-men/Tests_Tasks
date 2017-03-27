@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats>
+    <stat>
+        <comment/>
+        <currency>USD</currency>
+        <website_name>Letyshops.ru</website_name>
+        <status_updated>2016-03-01 23:59:12</status_updated>
+        <advcampaign_id>6115</advcampaign_id>
+        <subid1>-</subid1>
+        <subid3>-</subid3>
+        <subid2>2016-03-01_23:57:25</subid2>
+        <subid4>-</subid4>
+        <click_date>2016-03-01 23:57:35</click_date>
+        <action_id>48559075</action_id>
+        <status>pending</status>
+        <order_id>73367792104711</order_id>
+        <cart>1.40</cart>
+        <conversion_time>97</conversion_time>
+        <payment>0.17</payment>
+        <advcampaign_name>Aliexpress INT</advcampaign_name>
+        <tariff_id>1954</tariff_id>
+        <closing_date>2016-05-10</closing_date>
+        <subid>13366481:402781:1456864423_188.163.98.113_413</subid>
+        <action_date>2016-03-01 23:59:12</action_date>
+        <action>Оплаченный заказ</action>
+    </stat>
+    <stat>
+        <comment/>
+        <currency>USD</currency>
+        <website_name>Letyshops.ru</website_name>
+        <status_updated>2016-03-01 23:58:22</status_updated>
+        <advcampaign_id>6115</advcampaign_id>
+        <subid1>-</subid1>
+        <subid3>-</subid3>
+        <subid2>2016-03-01_23:15:45</subid2>
+        <subid4>-</subid4>
+        <click_date>2016-03-01 23:15:55</click_date>
+        <action_id>48559048</action_id>
+        <status>pending</status>
+        <order_id>73367159954245</order_id>
+        <cart>0.97</cart>
+        <conversion_time>2547</conversion_time>
+        <payment>0.12</payment>
+        <advcampaign_name>Aliexpress INT</advcampaign_name>
+        <tariff_id>1954</tariff_id>
+        <closing_date>2016-05-10</closing_date>
+        <subid>13366481:312987:1456862305_46.191.113.118_531</subid>
+        <action_date>2016-03-01 23:58:22</action_date>
+        <action>Оплаченный заказ</action>
+    </stat>
+    <stat>
+        <comment/>
+        <currency>RUB</currency>
+        <website_name>Letyshops.ru</website_name>
+        <status_updated>2016-03-01 23:58:17</status_updated>
+        <advcampaign_id>987</advcampaign_id>
+        <subid1>-</subid1>
+        <subid3>-</subid3>
+        <subid2>-</subid2>
+        <subid4>-</subid4>
+        <click_date>2016-03-01 23:50:28</click_date>
+        <action_id>48559045</action_id>
+        <status>pending</status>
+        <order_id>42706814</order_id>
+        <cart>990.00</cart>
+        <conversion_time>469</conversion_time>
+        <payment>35.27</payment>
+        <advcampaign_name>М.Видео</advcampaign_name>
+        <tariff_id>3822</tariff_id>
+        <closing_date>2016-03-31</closing_date>
+        <subid>17060859:422093:1456864995_79.164.242.217_678</subid>
+        <action_date>2016-03-01 23:58:17</action_date>
+        <action>Оплаченный заказ</action>
+    </stat>
+</stats>
