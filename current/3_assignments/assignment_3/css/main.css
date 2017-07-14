@@ -1,0 +1,25 @@
+.title
+{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table
+{
+    width: 80% !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+thead
+{
+    font-weight: bold;
+}
+
+tfoot td
+{
+    text-align: right;
+    vertical-align: bottom;
+}
