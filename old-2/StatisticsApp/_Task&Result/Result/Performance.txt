@@ -1,0 +1,5 @@
+To better performance we can use resulted table and get data from this table.
+
+This table contains result of main mysql query, updated once a day (with cron script).
+
+Also we can use usual cache
